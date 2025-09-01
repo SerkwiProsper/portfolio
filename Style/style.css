@@ -234,9 +234,9 @@ footer h3 {
 
 @media screen and (max-width: 412px) {
   * {
-    width: 400px;
+    width: 100%;
     margin: 0;
-    background-color: aqua;
+    background-color: black;
     padding: 0;
     color: white;
     font-size: 15px;
